@@ -1,0 +1,41 @@
+Functionalities
+
+Student
+
+-View Marks
+
+Faculty
+
+-Add marks
+-View assigned Group
+-View Notificatiom
+-View document: The document uploded by student should be display. Add comment.
+
+Jury
+
+-Notification
+-Add marks
+
+Admin
+
+-Add Jury 
+-Assign Jury
+-Create Group
+-Add Notification: Can compose Message
+
+CHANGES
+
+Faculty
+ 
+-In View, Assigned group should display
+
+Student 
+
+-Remove Skill matrix
+-Notification: Student shoudn't able to compose notification
+-View comments. This should display in Upload document
+
+Admin
+
+Replace Search Student by View Student
+Remove Search Faculty 
